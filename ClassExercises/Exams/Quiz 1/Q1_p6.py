@@ -6,7 +6,6 @@ MAX = 4
 
 # Get the numbers and accumulate them.
 for counter in range(MAX):
-	while 
 	test_scores = int(input('Enter a test score: '))
 	total = 0.0
 	if  test_scores >=90 and test_scores <=100:
