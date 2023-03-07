@@ -1,2 +1,3 @@
-for x in range(10):
-	print(x)
+#Creating and printing a tuple 
+
+cities = ("SF", "LA", "SA")
